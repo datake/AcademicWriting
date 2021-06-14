@@ -16,6 +16,8 @@ explore/investigate/analyze, probe, examine, validate, justify, demystify
 
 Here we take the perspective that ... implies that ...
 
+Namely, / Namely that
+
 ## 3. Anlysis on Figures/Tables  
 (1) It illustrates/displays/present/manifests/exhibits/turns out that  
 (2) It is worth noting that / It is worthwhile to note that / A key observation is that  
@@ -36,7 +38,9 @@ yield, lead to, result in
 address, handle, cope with, tackle
 
 ## 8. key 
-A key incredient is, the crucial part is
+A key incredient is, the crucial part is, 
+
+Importantly, note that ...
 
 ## 9. Others
 serve as, allow

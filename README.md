@@ -14,6 +14,8 @@
 ## 2. Study
 explore/investigate/analyze, probe, examine, validate, justify, demystify  
 
+Here we take the perspective that ... implies that ...
+
 ## 3. Anlysis on Figures/Tables  
 (1) It illustrates/displays/present/manifests/exhibits/turns out that  
 (2) It is worth noting that / It is worthwhile to note that / A key observation is that  
@@ -38,4 +40,12 @@ A key incredient is, the crucial part is
 
 ## 9. Others
 serve as, allow
+
+We emphasize that the discussion below is highly speculative in nature, but our finding sheds light on .. for robust deep learning.
+
+While far from perfect, ...
+
+in the sense that
+
+
 

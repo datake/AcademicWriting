@@ -23,7 +23,9 @@ Namely, / Namely that
 (2) It is worth noting that / It is worthwhile to note that / A key observation is that  
 (3) The results reveal.corroborate/demonstrate/verify that  
 (4) decreasing: diminish, decline, reduction; increasing: ascend  
-(5) comparision: outperform/be superior to/surpass, comparable/be on par with/echo with/conincide with
+(5) comparision: outperform/be superior to/surpass, comparable/be on par with/echo with/conincide with  
+(6) it escalates as A increases.
+
 
 ## 4. use
 leverage, utilize, exploit, employ

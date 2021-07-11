@@ -1,4 +1,4 @@
-# Academic Writing (updated by Feb 19, 2021)
+# Academic Writing (updated by July 10, 2021)
 
 ## 1. Conjuction
 (1) Cause: owing to, be ascribed to, due to, account for  
@@ -32,6 +32,8 @@ leverage, utilize, exploit, employ
 
 ## 5. argue 
 we assume/speculate/conjecture/argue/hypothesize that
+
+We contend that 
 
 ## 6. results 
 yield, lead to, result in

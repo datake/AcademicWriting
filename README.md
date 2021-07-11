@@ -55,5 +55,8 @@ While far from perfect, ...
 
 in the sense that
 
+## 10. Common use in Introductin part  
+(1)This issue has gained increasing attention in recent years, and efforts to improve it have grown substantially.  
+(2)
 
 

@@ -47,13 +47,12 @@ A key incredient is, the crucial part is,
 Importantly, note that ...
 
 ## 9. Others
-serve as, allow
-
-We emphasize that the discussion below is highly speculative in nature, but our finding sheds light on .. for robust deep learning.
-
+serve as, allow  
+We emphasize that the discussion below is highly speculative in nature, but our finding sheds light on .. for robust deep learning. 
 While far from perfect, ...
-
-in the sense that
+in the sense that  
+akin to > similar to
+relative to > compared with
 
 ## 10. Common use in Introductin part  
 (1)This issue has gained increasing attention in recent years, and efforts to improve it have grown substantially.  

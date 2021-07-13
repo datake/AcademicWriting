@@ -55,6 +55,6 @@ relative to > compared with
 
 ## 10. Common use in Introductin part  
 (1)This issue has gained increasing attention in recent years, and efforts to improve it have grown substantially.  
-(2)
+(2)In light of our results, it makes sense to analyze that 
 
 

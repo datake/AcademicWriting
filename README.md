@@ -42,8 +42,7 @@ yield, lead to, result in
 address, handle, cope with, tackle
 
 ## 8. key 
-A key incredient is, the crucial part is, 
-
+A key incredient is, the crucial part is, the crux of the proof is   
 Importantly, note that ...
 
 ## 9. Others

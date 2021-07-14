@@ -51,7 +51,8 @@ We emphasize that the discussion below is highly speculative in nature, but our 
 While far from perfect, ...
 in the sense that  
 akin to > similar to
-relative to > compared with
+relative to > compared with  
+appealing property > good property  
 
 ## 10. Common use in Introductin part  
 (1)This issue has gained increasing attention in recent years, and efforts to improve it have grown substantially.  
